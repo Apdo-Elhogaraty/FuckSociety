@@ -1,17 +1,14 @@
-import random
+import os
 
-print(random.randrange(0, 10, 1))
+import MainVariables
 
-
-
-
-
-
+# os.system("/home/amh/PycharmProjects/FuckSociety/README.txt")
+# file = "/home/amh/PycharmProjects/FuckSociety"
+# os.system(f"xdg-open {file}")
 
 
-
-
-
+# for file in os.listdir("/home/amh/PycharmProjects/FuckSociety/Data/References/Books"):
+#     print(file)
 
 # def ProblemSolving():
 #     browser = mechanicalsoup.StatefulBrowser()

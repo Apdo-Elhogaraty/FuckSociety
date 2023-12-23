@@ -5,7 +5,7 @@ import functions
 import requests
 from bs4 import BeautifulSoup
 import webbrowser
-import mechanicalsoup
+
 class MyDiary:
     def __init__(self,frame):
         self.frame = frame
